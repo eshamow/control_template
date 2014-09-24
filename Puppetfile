@@ -25,7 +25,7 @@ mod "puppetlabs/ruby",
 
 mod "puppetlabs/passenger",
   :git => 'https://github.com/eshamow/puppetlabs-passenger',
-  :ref => '40224e8742752999a2be046fc932a2fb6382efd1'
+  :ref => '270bf462a9942f5c534684bef2767cedb98707a0'
 
 mod "eshamow/profile_passenger",
   :git => 'https://github.com/eshamow/eshamow-profile_passenger',
