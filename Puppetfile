@@ -12,12 +12,12 @@ mod "puppetlabs/gcc", "0.2.0"
 mod "puppetlabs/git", "0.2.0"
 mod "puppetlabs/inifile", "1.1.3"
 mod "puppetlabs/pe_gem", "0.0.1"
-mod "puppetlabs/postgresql", "4.4.0"
+mod "puppetlabs/postgresql", "4.0.0"
 mod "puppetlabs/puppetdb", "4.0.0"
 mod "puppetlabs/stdlib", "4.3.2"
 mod "puppetlabs/vcsrepo", "1.1.0"
 mod "stahnma/epel", "1.0.0"
-mod "zack/r110k", "2.3.0"
+mod "zack/r10k", "2.3.0"
 
 mod "puppetlabs/ruby",
   :git => 'https://github.com/puppetlabs/puppetlabs-ruby',
