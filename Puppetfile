@@ -33,7 +33,7 @@ mod "eshamow/profile_passenger",
 
 mod "eshamow/puppetmaster",
   :git => 'https://github.com/eshamow/puppetmaster',
-  :ref => '0.2.4'
+  :ref => '0.2.5'
 
 # Modules from Github using various references
 #mod 'notifyme',
