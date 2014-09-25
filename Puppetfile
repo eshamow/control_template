@@ -19,19 +19,19 @@ mod "puppetlabs/vcsrepo", "1.1.0"
 mod "stahnma/epel", "1.0.0"
 mod "zack/r10k", "2.3.0"
 
-mod "puppetlabs/ruby",
+mod "ruby",
   :git => 'https://github.com/puppetlabs/puppetlabs-ruby',
   :ref => 'd8131b0535c3bb8bc2e72dca5d0b0e6088a65374'
 
-mod "puppetlabs/passenger",
+mod "passenger",
   :git => 'https://github.com/eshamow/puppetlabs-passenger',
   :ref => '270bf462a9942f5c534684bef2767cedb98707a0'
 
-mod "eshamow/profile_passenger",
+mod "profile_passenger",
   :git => 'https://github.com/eshamow/eshamow-profile_passenger',
   :ref => '0.1.0'
 
-mod "eshamow/puppetmaster",
+mod "puppetmaster",
   :git => 'https://github.com/eshamow/puppetmaster',
   :ref => '0.2.5'
 
