@@ -29,11 +29,11 @@ mod "passenger",
 
 mod "profile_passenger",
   :git => 'https://github.com/eshamow/eshamow-profile_passenger',
-  :ref => '0.1.0'
+  :ref => '0.2.5'
 
 mod "puppetmaster",
   :git => 'https://github.com/eshamow/puppetmaster',
-  :ref => '0.2.5'
+  :ref => '0.2.6'
 
 # Modules from Github using various references
 #mod 'notifyme',
