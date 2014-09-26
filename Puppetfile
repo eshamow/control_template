@@ -29,7 +29,7 @@ mod "passenger",
 
 mod "profile_passenger",
   :git => 'https://github.com/eshamow/eshamow-profile_passenger',
-  :ref => '0.2.5'
+  :ref => '85c139cd30591b602fec73f4113ad5d7064c576d'
 
 mod "puppetmaster",
   :git => 'https://github.com/eshamow/puppetmaster',
