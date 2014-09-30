@@ -21,7 +21,7 @@ mod "zack/r10k", "2.3.0"
 
 mod "ruby",
   :git => 'https://github.com/puppetlabs/puppetlabs-ruby',
-  :ref => 'd8131b0535c3bb8bc2e72dca5d0b0e6088a65374'
+  :ref => '734a33bb7f7670136e77179aafeeebb81d8d14d3'
 
 mod "passenger",
   :git => 'https://github.com/eshamow/puppetlabs-passenger',
