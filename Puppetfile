@@ -7,7 +7,6 @@ mod "mhuffnagle/make", "0.0.2"
 mod "puppetlabs/apache", "1.1.1"
 mod "puppetlabs/apt", "1.6.0"
 mod "puppetlabs/concat", "1.1.1"
-mod "puppetlabs/firewall", "1.1.3"
 mod "puppetlabs/gcc", "0.2.0"
 mod "puppetlabs/git", "0.2.0"
 mod "puppetlabs/inifile", "1.1.3"
@@ -18,6 +17,10 @@ mod "puppetlabs/stdlib", "4.3.2"
 mod "puppetlabs/vcsrepo", "1.1.0"
 mod "stahnma/epel", "1.0.0"
 mod "zack/r10k", "2.3.0"
+
+mod "firewall",
+  :git => 'https://github.com/puppetlabs/puppetlabs-firewall',
+  :ref => '955024ee846a251686f70505c4502ac406cfe4d4'
 
 mod "ruby",
   :git => 'https://github.com/puppetlabs/puppetlabs-ruby',
