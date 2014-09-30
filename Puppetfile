@@ -36,7 +36,7 @@ mod "profile_passenger",
 
 mod "puppetmaster",
   :git => 'https://github.com/eshamow/puppetmaster',
-  :ref => 'b60a85eed8aff3726c229e7dc2471e50232e607e'
+  :ref => '54672c368ca0296afe3462d49f2d929e699cecf7'
 
 # Modules from Github using various references
 #mod 'notifyme',
